@@ -5,7 +5,7 @@ program testProgram
   integer indx, jndx
   real array(10)
 
-  ! array=0.0
+   array=0.0
 
 
   do indx=1,10
